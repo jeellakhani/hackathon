@@ -1,65 +1,161 @@
-🚀 Ghost Income Shield
-AI-Powered Predictive Insurance for Gig Workers
-📌 Problem Statement
-India’s gig workers (Zomato, Swiggy, Blinkit, etc.) face frequent income loss due to external disruptions like weather, pollution, or sudden restrictions.
+# 👻 Ghost Income Shield
+### AI-Powered Predictive Insurance for Gig Workers
 
-Current Challenges:
-❌ No protection against lost working hours ❌ Income fluctuates unpredictably ❌ Workers bear 100% financial risk
-💡 Our Solution
-Ghost Income Shield is an AI-powered parametric insurance platform that:
+> “We don’t just insure losses — we predict and prevent them.”
 
-✅ Predicts income loss before it happens ✅ Dynamically adjusts weekly insurance pricing ✅ Automatically triggers claims & payouts ✅ Detects fraud using behavioral + location analysis
-🔥 “We don’t just insure losses — we predict and prevent them.”
+---
 
-🎯 Key Innovation (What Makes Us Different)
-🔥 1. Predictive Income Loss Engine
-Uses weather + historical behavior Predicts expected income loss Sends alerts before disruption
-🧠 2. Digital Twin Worker Model
-Builds a behavioral profile: Working hours Zone preference Earnings pattern Enables hyper-personalized insurance
-💸 3. Dynamic Weekly Pricing
-Based on: Area risk Worker activity Forecasted disruptions
+## 📌 Problem
+
+Gig workers (Zomato, Swiggy, Blinkit, etc.) face frequent income loss due to:
+
+- 🌧️ Weather disruptions  
+- 🌫️ Pollution spikes  
+- 🚫 Sudden restrictions  
+
+### Challenges
+- ❌ No income protection  
+- ❌ Unpredictable earnings  
+- ❌ Full financial risk on workers  
+
+---
+
+## 💡 Solution
+
+**Ghost Income Shield** is an AI-powered parametric insurance system that:
+
+- 🔮 Predicts income loss before it happens  
+- 💸 Adjusts weekly premiums dynamically  
+- ⚡ Auto-triggers claims and payouts  
+- 🛡️ Detects fraud using behavior + location  
+
+---
+
+## 🚀 Key Features
+
+### 🧠 Predictive Engine
+- Weather + historical data analysis  
+- Income loss forecasting  
+- Pre-disruption alerts  
+
+### 👤 Digital Twin Model
+- Tracks work patterns  
+- Learns earnings behavior  
+- Personalizes insurance  
+
+### 💰 Dynamic Pricing
+- Based on risk, activity, and location  
+
 Example:
 
-Low-risk zone → ₹15/week High-risk zone → ₹35/week
-⚡ 4. Zero-Touch Claim System
-No manual claim filing Auto-triggered via real-time events Instant payout simulation
-🛡️ 5. Intelligent Fraud Detection
-Detects: Fake claims GPS spoofing Inactive worker claims Ensures system reliability
-👻 6. Shadow Mode Simulation (Unique Feature)
-Shows:
-“If you had insurance, you would have earned ₹X”
+Low Risk → ₹15/week
+High Risk → ₹35/week
 
-Builds trust and awareness
-🏗️ System Architecture
-Frontend: React.js
-Backend: Node.js / Express
 
-AI/ML:
+### ⚡ Zero-Touch Claims
+- No manual filing  
+- Auto-triggered payouts  
 
-Income Prediction → Linear Regression Risk Classification → Basic ML Model
-APIs:
+### 🛡️ Fraud Detection
+- GPS spoof detection  
+- Fake claim prevention  
+- Activity validation  
 
-OpenWeather API Mock Delivery Data Razorpay (Test Mode)
-🔄 Workflow
-User registers (delivery partner) System creates behavioral profile AI calculates weekly premium System monitors external triggers (weather, etc.)
-If disruption occurs:
-Claim auto-triggered Payout processed instantly
-Dashboard shows:
-Earnings protected Risk score Weekly coverage
-📊 Features
-📍 Real-time risk monitoring 🤖 AI-based premium calculation 💰 Weekly subscription model ⚡ Instant claim & payout 🔍 Fraud detection engine 📈 Analytics dashboard
-🎥 Demo Plan
-User onboarding Risk score display Weekly premium generation Simulated disruption (rain/flood) Auto claim trigger Instant payout Prediction before event
-🧪 Tech Stack
-| Layer | Technology | |------------|--------------------| | Frontend | React.js | | Backend | Node.js | | Database | MongoDB | | AI/ML | Python (Scikit-learn) | | APIs | OpenWeather API | | Payments | Razorpay (Test Mode) |
+### 👻 Shadow Mode
+- Shows potential earnings with insurance  
+- Builds user trust  
 
-📈 Future Scope
-Real integration with gig platforms Advanced ML models Multi-city risk prediction Real-time GPS validation
-👥 Team
-Sarthak Bohara (Leader) Lakhani Jeel Parth Pipaliya Yash Darji Preet Patel
-📌 Conclusion
-Ghost Income Shield transforms insurance into a predictive, automated, and intelligent safety net for gig workers.
+---
 
-It ensures:
-✅ Financial stability ✅ Zero manual effort ✅ Smarter risk management
-⭐ Built for Guidewire DEVTrails 2026 Hackathon
+## 🏗️ Architecture
+
+
+Frontend → React.js
+Backend → Node.js / Express
+Database → MongoDB
+AI/ML → Python (Scikit-learn)
+APIs → OpenWeather API
+Payments → Razorpay (Test Mode)
+
+
+---
+
+## 🔄 Workflow
+
+1. User registers  
+2. Profile is created  
+3. AI calculates premium  
+4. System monitors risks  
+5. Disruption detected → Auto claim  
+6. Instant payout  
+7. Dashboard updates  
+
+---
+
+## 📊 Features
+
+- Real-time risk tracking  
+- AI premium calculation  
+- Weekly subscription  
+- Instant payouts  
+- Fraud detection  
+- Analytics dashboard  
+
+---
+
+## 🎥 Demo
+
+- Onboarding  
+- Risk score display  
+- Premium generation  
+- Simulated disruption  
+- Auto claim trigger  
+- Instant payout  
+
+---
+
+## 🧪 Tech Stack
+
+| Layer    | Tech |
+|----------|------|
+| Frontend | React.js |
+| Backend  | Node.js |
+| DB       | MongoDB |
+| AI/ML    | Python (Scikit-learn) |
+| APIs     | OpenWeather API |
+| Payments | Razorpay |
+
+---
+
+## 📈 Future Scope
+
+- Gig platform integration  
+- Advanced ML models  
+- Multi-city predictions  
+- Real-time GPS validation  
+
+---
+
+## 👥 Team
+
+- Sarthak Bohara  
+- Lakhani Jeel  
+- Parth Pipaliya  
+- Yash Darji  
+- Preet Patel  
+
+---
+
+## 🏁 Conclusion
+
+Ghost Income Shield transforms insurance into a:
+
+- Predictive  
+- Automated  
+- Intelligent  
+
+safety net for gig workers.
+
+---
+
+⭐ Built for **Guidewire DEVTrails 2026 Hackathon**
